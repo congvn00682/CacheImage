@@ -104,7 +104,6 @@
 		7946E9F920809D5700F6DA76 /* CacheImage */ = {
 			isa = PBXGroup;
 			children = (
-				79E2467C2085AB3C007F7CFF /* Spinner */,
 				7945B2D82084FB6C008F25F0 /* Controller */,
 				7945B2D72084FB64008F25F0 /* View */,
 				7945B2D22084F9BB008F25F0 /* Model */,
@@ -118,13 +117,6 @@
 				7946EA0620809D5700F6DA76 /* Info.plist */,
 			);
 			path = CacheImage;
-			sourceTree = "<group>";
-		};
-		79E2467C2085AB3C007F7CFF /* Spinner */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Spinner;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
